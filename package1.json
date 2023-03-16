@@ -1,0 +1,11 @@
+{
+    "author": "Jaya",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censoritpvp_f7",
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+}
